@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+* {
+    font-family: "Dela Gothic One";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
